@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+instance/
+.env
+venv/
+.vscode/
+neuroflow.db
